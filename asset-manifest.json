@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movies4U-ReactJS/static/css/main.10c0331f.css",
+    "main.js": "/Movies4U-ReactJS/static/js/main.b54d6042.js",
+    "index.html": "/Movies4U-ReactJS/index.html",
+    "main.10c0331f.css.map": "/Movies4U-ReactJS/static/css/main.10c0331f.css.map",
+    "main.b54d6042.js.map": "/Movies4U-ReactJS/static/js/main.b54d6042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c0331f.css",
+    "static/js/main.b54d6042.js"
+  ]
+}
